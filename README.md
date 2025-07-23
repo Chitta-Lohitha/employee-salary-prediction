@@ -23,6 +23,7 @@ A simple ML web app using **Flask** to predict employee salaries based on user i
 employee-salary-prediction/
 │
 ├── app/
+
 │   ├── app.py                  # Flask application
 │   ├── templates/
 │   │   └── index.html          # Frontend form
