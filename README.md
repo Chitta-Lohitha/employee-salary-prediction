@@ -55,4 +55,21 @@ employee-salary-prediction/
 
 └── README.md
 
+
 ---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+
+- Python 3.8+
+- pip
+- Git
+
+### 📦 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Chitta-Lohitha/employee-salary-prediction.git
+   cd employee-salary-prediction
+
