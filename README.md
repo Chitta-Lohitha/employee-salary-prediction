@@ -73,3 +73,22 @@ employee-salary-prediction/
    git clone https://github.com/Chitta-Lohitha/employee-salary-prediction.git
    cd employee-salary-prediction
 
+---
+
+🧠 Model Details
+Algorithm: Linear Regression / Random Forest (customizable)
+
+Features:
+
+Age
+
+Gender
+
+Education Level
+
+Job Title
+
+Years of Experience
+
+Target: Salary (numeric)
+
