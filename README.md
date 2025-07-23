@@ -75,7 +75,7 @@ employee-salary-prediction/
 
 ---
 
-##🧠 Model Details
+## 🧠 Model Details
 
 Algorithm: Linear Regression / Random Forest (customizable)
 
