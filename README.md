@@ -21,6 +21,7 @@ A simple ML web app using **Flask** to predict employee salaries based on user i
 ## 📦 Project Structure
 
 employee-salary-prediction/
+
 │
 ├── app/
 
