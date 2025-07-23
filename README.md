@@ -90,7 +90,7 @@ Target: Salary (numeric)
 
 ---
 
-👤 Author
+## 👤 Author
 
 💡 Chitta Lohitha
 
