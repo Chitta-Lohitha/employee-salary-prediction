@@ -78,17 +78,17 @@ employee-salary-prediction/
 🧠 Model Details
 Algorithm: Linear Regression / Random Forest (customizable)
 
-Features:
+*Features:
 
-Age
+  *Age
 
-Gender
+  *Gender
 
-Education Level
+  *Education Level
 
-Job Title
+  *Job Title
 
-Years of Experience
+  *Years of Experience
 
-Target: Salary (numeric)
+*Target: Salary (numeric)
 
