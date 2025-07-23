@@ -80,7 +80,7 @@ Algorithm: Linear Regression / Random Forest (customizable)
 
 *Features:
 
-    *Age
+   *Age
 
   *Gender
 
