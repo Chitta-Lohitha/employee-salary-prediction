@@ -88,4 +88,14 @@ Features:
 
 Target: Salary (numeric)
 
+---
 
+👤 Author
+
+💡 Chitta Lohitha
+
+🔗  https://github.com/Chitta-Lohitha
+
+---
+
+⭐ If you find this useful, star it on GitHub and share!
